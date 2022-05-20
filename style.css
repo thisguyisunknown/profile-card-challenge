@@ -24,7 +24,7 @@ article {
   width: 90%;
   max-width: 350px;
   overflow: hidden;
-  border-radius: 10px;
+  border-radius: 15px;
   box-shadow: 0 0 25px .5px hsla(227,10%,46%,.5);
 }
 #cover > img {
