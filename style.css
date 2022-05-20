@@ -57,18 +57,18 @@ article {
 #info {
   padding: 75px 0 0 0;
 }
-h2 {
+h1 {
   font-size: 1.125rem;
   font-weight: 700;
   font-family: 'Kumbh Sans', Sans-Serif;
   color: hsl(229,23%,23%);
 }
-h2 > span {
+h1 > span {
   font-size: 1.15rem;
   font-weight: 400;
   color: hsl(227,10%,46%);
 }
-#info > h3 {
+#info > h2 {
   margin: 10px 0 25px 0;
   font-size: .95rem;
   font-weight: 400;
